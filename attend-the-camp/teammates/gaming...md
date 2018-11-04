@@ -1,3 +1,3 @@
 Fast forward in the middle of the game, mr.mueller's empire in the game is about to collapse, would you wish to...  
 [stay](stay/money.md)  
-[Betray him and leave his team](../../virus.md) 
+[Betray him and leave his team](betray/virus.md) 
