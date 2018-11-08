@@ -1,3 +1,0 @@
-You and everyone else in the camp are starting a video games with mr.mueller being the lead. Would want to be mr mueller’s ...    
-[enemy](teammates/betray/virus.md)    
-[teammates](teammates/gaming...md)  
