@@ -1,4 +1,4 @@
 You see blocks of wall. Now you're stuck here forever.  
-![wall](../../../../picture/door.png)  
+![wall](../../../../picture/door.jpg)  
 credit to pixabay  
-JK JK JK [you can go back](../box/boxopen.md)  
+JK JK JK [you can still open the box](../box/boxopen.md)  
