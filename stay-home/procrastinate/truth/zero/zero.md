@@ -1,2 +1,2 @@
-You had failed to hand in the assisgnment so you recieve i huge zero.  
+You had failed to hand in the assisgnment so you recieve a huge zero.  
 The End
