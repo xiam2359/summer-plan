@@ -1,1 +1,1 @@
-Because of your bravery, you successfully survived through your ride. Hope you had fun.
+Because of your bravery, you successfully survived through your ride. Hope you had fun. 
